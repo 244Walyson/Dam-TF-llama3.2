@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564961086002",
+    "project_id": "contact-list-dam",
+    "storage_bucket": "contact-list-dam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564961086002:android:39ffe2f743e163aa7d0a2b",
+        "android_client_info": {
+          "package_name": "com.example.contact_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpZ-zqmvYwGNCOzLeGdmTWjn--YjliuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
